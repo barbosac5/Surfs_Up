@@ -29,6 +29,6 @@ The purpose of this analysis was to find out more information about temperature 
 - In addition to looking at the temperature data, I also think it is important to look at the amount of precipitation that occurs in Oahu to predict the amount of business that the shop will have that day. This precipitation data goes for the entire year of 2016-2017 so we cannot see the specific data for June and December at a glance (we would have to do a bit of digging to look at all the days for both months). I think looking at the precipitation data is important is because I do believe that the weather can sway people on whether or not. Just like with the weather data for sunny weather, I think rainy weather can deter some of the locals or other people from going to the shop to either surf or get ice cream. While it may not be entirely accurate at times, I do think getting the precipitation data for the winter and summer months can be a kind of prediction to see how much business will be that day.
 
 #### Precipitation Data
-![Rain_Data](./Rain_Data.png)
+![Rain_Data](./Prcp_Data.png)
 
 ## Resources
