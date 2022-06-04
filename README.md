@@ -32,3 +32,10 @@ The purpose of this analysis was to find out more information about temperature 
 ![Rain_Data](./Prcp_Data.png)
 
 ## Resources
+-Anaconda version 2.1.1
+
+-Jupyter Notebook version 6.4.5
+
+-Python version 3.9.7
+
+-Pandas version 1.3.4
